@@ -13,9 +13,9 @@ El programa contiene:
 ## Instalaciòn y ejecucion del proyecto
 Descargue el repositorio lo puede realizar de tres formas:
 * Clonando el codigo con uno de los siguientes enlaces: 
-  * HTTPS: https://github.com/juanzambranog/Operaciones_vectores_matrices.git
-  * SSH: git@github.com:juanzambranog/Operaciones_vectores_matrices.git
-  * GitHub CLI: gh repo clone juanzambranog/Operaciones_vectores_matrices
+  * HTTPS: https://github.com/juanzambranog/Simulacion_De_Lo_Clasico_A_Lo_Cuantico.git
+  * SSH: git@github.com:juanzambranog/Simulacion_De_Lo_Clasico_A_Lo_Cuantico.git
+  * GitHub CLI: gh repo clone juanzambranog/Simulacion_De_Lo_Clasico_A_Lo_Cuantico
 * Descargando el repositorio en formato .zip
 * Abrir el repositorio con GitHub Desktop
   
